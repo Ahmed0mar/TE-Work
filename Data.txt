@@ -1,0 +1,17 @@
+Dear Omar , 
+
+                Kindly be noted  conditions we discussed for ZTE and Huawei cabins
+About NOKIA , scenario will fixed as :
+
+Hostname	Interface	Link_Direction
+M01N	ntio-1:sfp:1	Uplink
+M01N	ntio-1:sfp:2	Downlink
+M01N	ntio-1:sfp:3	Downlink
+M01N	ntio-1:sfp:4	Downlink
+M01N	ntio-1:sfp:5	Downlink
+M02N	nt-a:sfp:1	Uplink
+M02N	nt-b:sfp:1	Uplink
+M03N	nt-a:sfp:1	Uplink
+M03N	nt-b:sfp:1	Uplink
+If you found any ports not in table , Link_Direction value will be “ Cant detect “  as ntio-1:sfp:8
+
